@@ -2,4 +2,3 @@ pyrogram
 tgcrypto
 fastapi
 uvicorn
-aiohttp
